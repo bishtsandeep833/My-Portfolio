@@ -1,6 +1,6 @@
 # My-Portfolio
 sandeep/
-ninja
+ninja/
 sandeep/
 hey////.
 4th commit
